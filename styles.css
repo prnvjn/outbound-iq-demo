@@ -19,12 +19,12 @@ body {
 .page { width: min(100%, 880px); margin: 0 auto; padding: 64px 48px 64px; }
 .hero { display: flex; flex-direction: column; gap: 39px; margin-bottom: 29px; }
 h1, h2, h3, p { margin-top: 0; }
-h1 { max-width: 610px; margin-bottom: 0; font-size: clamp(28px, 4vw, 38px); font-weight: 550; line-height: 1.18; letter-spacing: -1.5px; }
+h1 { max-width: 550px; margin-bottom: 0; font-size: clamp(28px, 4vw, 38px); font-weight: 550; line-height: 1.18; letter-spacing: -1.5px; }
 .subtitle { max-width: 585px; margin: 20px 0 0; color: var(--muted); }
 .art { aspect-ratio: 1.5; overflow: hidden; border-radius: 16px; }
 .art svg { display: block; width: 100%; height: 100%; }
 .facts { margin: 0 0 40px; font-size: 15px; line-height: 24px; }
-.facts > div { display: grid; grid-template-columns: 1fr 2fr; gap: 0 16px; padding: 11px 0; border-bottom: 1px solid var(--line); }
+.facts > div { display: grid; grid-template-columns: 1fr 2fr; gap: 0 16px; padding: 12px 0; border-bottom: 1px solid var(--line); }
 .facts dt { display: flex; align-items: center; gap: 8px; color: var(--muted); }
 .facts dd { margin: 0; }
 .icon { flex: 0 0 16px; width: 16px; height: 16px; color: #32699e; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
