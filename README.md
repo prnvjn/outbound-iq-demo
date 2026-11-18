@@ -1,6 +1,8 @@
-# Outbound IQ Demo
+# LabLaunch Demo
 
-A responsive, static one-page site for the Outbound IQ internal demo.
+A responsive, static one-page site for the LabLaunch internal demo.
+
+LabLaunch, by MakeGPT, is the internal sales and customer-success tool for selling MakeGPT's lab program to universities.
 
 Live GitHub Pages URL: https://prnvjn.github.io/outbound-iq-demo/
 
